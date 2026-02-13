@@ -1,7 +1,6 @@
 ## MLMI: Potential Energy Prediction for Cu–Zr
 
 R. Chinna Rayudu 22CSB0A45(CSE)
-Sabavath Kumar 22EEB0A65 (EEE)
 
 
 
